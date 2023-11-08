@@ -188,3 +188,13 @@ li a {
     color: var(--lighter-white);
     margin: auto 80px 50px 0;
 }
+
+footer {
+    background-color: var(--blue-bg);
+    padding: 25px 0;
+}
+
+footer p {
+    text-align: center;
+    color: var(--lighter-white);
+}
